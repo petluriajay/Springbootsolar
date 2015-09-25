@@ -34,10 +34,7 @@
 			<artifactId>heroku-maven-plugin</artifactId>
 			<version>0.5.3</version>
 			<configuration>
-				<appName>shrouded-plateau-2182</appName>
-				<!--<processTypes>
-					<web>web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/*.jar</web>
-			</processTypes>-->
+				<appName>shrouded-plateau-2182</appName>				
 			</configuration>
 		  </plugin>
         </plugins>
