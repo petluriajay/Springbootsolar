@@ -28,16 +28,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-		<plugin>
-			<groupId>com.heroku.sdk</groupId>
-			<artifactId>heroku-maven-plugin</artifactId>
-			<version>0.5.3</version>
-			<configuration>
-				<appName>shrouded-plateau-2182</appName>				
-			</configuration>
-		  </plugin>
-        </plugins>
+            </plugin>		
     </build>
 
 </project>
