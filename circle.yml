@@ -1,7 +1,7 @@
 
 ## Customize deployment commands
 deployment:
-  staging:
+  prod:
     branch: master
     heroku:
       appname: blooming-refuge-8036
