@@ -4,5 +4,5 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: blooming-refuge-8036
+      appname: shrouded-plateau-2182
 
